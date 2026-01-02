@@ -1,0 +1,17 @@
+{
+  "name": "minipuft",
+  "owner": {
+    "name": "minipuft"
+  },
+  "plugins": [
+    {
+      "name": "claude-prompts",
+      "source": {
+        "source": "github",
+        "repo": "minipuft/claude-prompts-mcp"
+      },
+      "description": "CAGEERF prompt engineering with chains, gates, and quality validation",
+      "version": "1.0.0"
+    }
+  ]
+}
