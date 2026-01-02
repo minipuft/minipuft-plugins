@@ -10,7 +10,7 @@
         "source": "github",
         "repo": "minipuft/claude-prompts-mcp"
       },
-      "description": "CAGEERF prompt engineering with chains, gates, and quality validation",
+      "description": "Hot-reloadable prompt library with chains, quality gates, and structured reasoning frameworks",
       "version": "1.0.0"
     }
   ]

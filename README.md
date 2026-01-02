@@ -18,7 +18,7 @@ Claude Code plugin marketplace.
 
 | Plugin | Description |
 |--------|-------------|
-| [claude-prompts](https://github.com/minipuft/claude-prompts-mcp) | CAGEERF prompt engineering with chains, gates, and quality validation |
+| [claude-prompts](https://github.com/minipuft/claude-prompts-mcp) | Hot-reloadable prompt library with chains, quality gates, and structured reasoning frameworks |
 
 ## Plugin Details
 
