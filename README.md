@@ -18,7 +18,7 @@ Claude Code plugin marketplace.
 
 | Plugin | Description |
 |--------|-------------|
-| [claude-prompts](https://github.com/minipuft/claude-prompts-mcp) | Hot-reloadable prompt library with chains, quality gates, and structured reasoning frameworks |
+| [claude-prompts](https://github.com/minipuft/claude-prompts-mcp) | Programmable prompt engine pushing better patterns: symbolic operators, quality gates, and methodology frameworks for reliable AI workflows |
 
 ## Plugin Details
 

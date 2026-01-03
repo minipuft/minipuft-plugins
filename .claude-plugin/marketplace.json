@@ -1,17 +1,30 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "minipuft",
   "owner": {
     "name": "minipuft"
   },
+  "metadata": {
+    "description": "Claude Code plugins by minipuft",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "claude-prompts",
+      "description": "Reusable prompt templates with quality gates and multi-step workflows for consistent AI outputs",
+      "version": "1.0.0",
+      "author": {
+        "name": "minipuft"
+      },
       "source": {
         "source": "github",
         "repo": "minipuft/claude-prompts-mcp"
       },
-      "description": "Hot-reloadable prompt library with chains, quality gates, and structured reasoning frameworks",
-      "version": "1.0.0"
+      "category": "productivity",
+      "homepage": "https://github.com/minipuft/claude-prompts-mcp",
+      "license": "MIT",
+      "keywords": ["mcp", "prompts", "templates", "gates", "chains", "workflows"],
+      "strict": true
     }
   ]
 }
