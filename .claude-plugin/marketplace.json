@@ -17,8 +17,8 @@
         "name": "minipuft"
       },
       "source": {
-        "source": "github",
-        "repo": "minipuft/claude-prompts-plugin"
+        "source": "url",
+        "url": "https://github.com/minipuft/claude-prompts-plugin.git"
       },
       "category": "productivity",
       "homepage": "https://github.com/minipuft/claude-prompts-mcp",
