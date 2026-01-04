@@ -12,13 +12,13 @@
     {
       "name": "claude-prompts",
       "description": "Reusable prompt templates with quality gates and multi-step workflows for consistent AI outputs",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "author": {
         "name": "minipuft"
       },
       "source": {
         "source": "url",
-        "url": "https://github.com/minipuft/claude-prompts-plugin.git"
+        "url": "https://github.com/minipuft/claude-prompts-mcp.git"
       },
       "category": "productivity",
       "homepage": "https://github.com/minipuft/claude-prompts-mcp",
