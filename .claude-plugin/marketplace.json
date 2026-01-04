@@ -12,7 +12,7 @@
     {
       "name": "claude-prompts",
       "description": "Reusable prompt templates with quality gates and multi-step workflows for consistent AI outputs",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "minipuft"
       },
