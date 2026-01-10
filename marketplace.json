@@ -11,8 +11,8 @@
   "plugins": [
     {
       "name": "claude-prompts",
-      "description": "Reusable prompt templates with quality gates and multi-step workflows for consistent AI outputs",
-      "version": "1.0.3",
+      "description": "Hot-reloadable versioned prompts with symbolic syntax: >>prompt --> >>chain @framework :: 'gate'",
+      "version": "1.1.1",
       "author": {
         "name": "minipuft"
       },
