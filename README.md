@@ -24,6 +24,8 @@ Claude Code plugin marketplace.
 
 ### claude-prompts
 
+Marketplace source points to the `dist` branch of `minipuft/claude-prompts-mcp`, which contains the prebuilt plugin artifact (including `server/dist/index.js`).
+
 Advanced prompt engineering toolkit for Claude Code featuring:
 
 - **CAGEERF Framework**: Structured methodology for comprehensive responses
