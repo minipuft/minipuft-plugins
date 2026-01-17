@@ -4,9 +4,9 @@ Claude Code plugin marketplace.
 
 ## Installation
 
-1. Add marketplace:
+1. Add marketplace (HTTPS, no auth prompts):
    ```bash
-   /plugin marketplace add minipuft/minipuft-plugins
+   /plugin marketplace add https://github.com/minipuft/minipuft-plugins.git
    ```
 
 2. Install plugins:
@@ -24,7 +24,7 @@ Claude Code plugin marketplace.
 
 ### claude-prompts
 
-Marketplace source points to the `dist` branch of `minipuft/claude-prompts-mcp`, which contains the prebuilt plugin artifact (including `server/dist/index.js`).
+Marketplace source points to the `dist` branch of `minipuft/claude-prompts-mcp`, which contains the prebuilt plugin artifact (including `server/dist/index.js`). The marketplace uses the HTTPS git URL to avoid SSH auth prompts.
 
 Advanced prompt engineering toolkit for Claude Code featuring:
 
