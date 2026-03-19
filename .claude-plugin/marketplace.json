@@ -12,7 +12,7 @@
     {
       "name": "claude-prompts",
       "description": "Hot-reloadable versioned prompts with symbolic syntax: >>prompt --> >>chain @framework :: 'gate'",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "author": {
         "name": "minipuft"
       },
@@ -24,7 +24,14 @@
       "category": "productivity",
       "homepage": "https://github.com/minipuft/claude-prompts-mcp",
       "license": "AGPL-3.0-only",
-      "keywords": ["mcp", "prompts", "templates", "gates", "chains", "workflows"],
+      "keywords": [
+        "mcp",
+        "prompts",
+        "templates",
+        "gates",
+        "chains",
+        "workflows"
+      ],
       "strict": true
     }
   ]
