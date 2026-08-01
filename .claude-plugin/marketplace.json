@@ -18,11 +18,11 @@
       },
       "source": {
         "source": "url",
-        "url": "https://github.com/minipuft/claude-prompts-mcp.git",
+        "url": "https://github.com/minipuft/claude-prompts.git",
         "ref": "dist"
       },
       "category": "productivity",
-      "homepage": "https://github.com/minipuft/claude-prompts-mcp",
+      "homepage": "https://github.com/minipuft/claude-prompts",
       "license": "MIT",
       "keywords": [
         "mcp",
