@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "profile": "marketplace",
+  "upstreamPackage": "claude-prompts",
+  "upstreamWriter": "claude-prompts-release-sync",
+  "requiredPaths": [".claude-plugin/marketplace.json"],
+  "requiredChecks": ["Consumer Contract"],
+  "localValidationWorkflow": ".github/workflows/consumer-contract.yml",
+  "marketplace": {
+    "manifestPath": ".claude-plugin/marketplace.json",
+    "pluginName": "claude-prompts",
+    "sourceUrl": "https://github.com/minipuft/claude-prompts.git",
+    "sourceRef": "dist",
+    "license": "MIT"
+  }
+}
