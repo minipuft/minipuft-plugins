@@ -12,7 +12,7 @@
     {
       "name": "claude-prompts",
       "description": "Hot-reloadable versioned prompts with symbolic syntax: >>prompt --> >>chain @framework :: 'gate'",
-      "version": "3.0.2",
+      "version": "3.1.0",
       "author": {
         "name": "minipuft"
       },
