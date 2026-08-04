@@ -33,6 +33,30 @@
         "workflows"
       ],
       "strict": true
+    },
+    {
+      "name": "codex-prompts",
+      "description": "Codex CLI hooks + bundled claude-prompts MCP server: >>prompt commands, chain tracking, gate enforcement, Ralph loops",
+      "version": "0.1.0",
+      "author": {
+        "name": "minipuft"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/minipuft/codex-prompts.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/minipuft/codex-prompts",
+      "license": "MIT",
+      "keywords": [
+        "codex",
+        "hooks",
+        "mcp",
+        "prompts",
+        "gates",
+        "chains"
+      ],
+      "strict": true
     }
   ]
 }
