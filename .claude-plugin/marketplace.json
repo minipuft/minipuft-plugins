@@ -12,7 +12,7 @@
     {
       "name": "claude-prompts",
       "description": "Model Context Protocol (MCP) server for versioned prompt templates, multi-step workflow chains, and quality gates. Symbolic syntax: >>prompt --> >>chain @framework :: 'gate'",
-      "version": "3.1.1",
+      "version": "3.2.1",
       "author": {
         "name": "minipuft"
       },
@@ -48,7 +48,14 @@
       "category": "productivity",
       "homepage": "https://github.com/minipuft/codex-prompts",
       "license": "MIT",
-      "keywords": ["codex", "hooks", "mcp", "prompts", "gates", "chains"],
+      "keywords": [
+        "codex",
+        "hooks",
+        "mcp",
+        "prompts",
+        "gates",
+        "chains"
+      ],
       "strict": true
     }
   ]
