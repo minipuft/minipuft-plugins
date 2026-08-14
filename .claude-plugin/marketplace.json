@@ -37,7 +37,6 @@
     {
       "name": "codex-prompts",
       "description": "Codex CLI hooks + bundled claude-prompts MCP server: >>prompt commands, chain tracking, gate enforcement, Ralph loops",
-      "version": "0.1.3",
       "author": {
         "name": "minipuft"
       },
