@@ -10,11 +10,21 @@
     "Consumer Contract"
   ],
   "localValidationWorkflow": ".github/workflows/consumer-contract.yml",
-  "marketplace": {
-    "manifestPath": ".claude-plugin/marketplace.json",
-    "pluginName": "claude-prompts",
-    "sourceUrl": "https://github.com/minipuft/claude-prompts-mcp.git",
-    "sourceRef": "dist",
-    "license": "MIT"
-  }
+  "marketplace": [
+    {
+      "manifestPath": ".claude-plugin/marketplace.json",
+      "pluginName": "claude-prompts",
+      "sourceUrl": "https://github.com/minipuft/claude-prompts-mcp.git",
+      "sourceRef": "dist",
+      "license": "MIT"
+    },
+    {
+      "manifestPath": ".claude-plugin/marketplace.json",
+      "pluginName": "codex-prompts",
+      "sourceUrl": "https://github.com/minipuft/codex-prompts.git",
+      "sourceRef": "dist",
+      "license": "MIT",
+      "versionSource": "ref"
+    }
+  ]
 }
