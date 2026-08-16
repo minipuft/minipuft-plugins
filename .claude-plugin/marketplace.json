@@ -12,7 +12,7 @@
     {
       "name": "claude-prompts",
       "description": "Model Context Protocol (MCP) server for versioned prompt templates, multi-step workflow chains, and quality gates. Symbolic syntax: >>prompt --> >>chain @framework :: 'gate'",
-      "version": "4.0.0",
+      "version": "4.0.1",
       "author": {
         "name": "minipuft"
       },
