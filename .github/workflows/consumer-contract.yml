@@ -15,8 +15,8 @@ jobs:
     name: Consumer Contract
     permissions:
       contents: read
-    uses: minipuft/repository-standards/.github/workflows/consumer-contract.yml@860df1a9b9ba68c25dafbc6c175548c9d343b7dc # v1.3.0
+    uses: minipuft/repository-standards/.github/workflows/consumer-contract.yml@6de1f8d6f703135a1d7ea76050ef1b9e537b51bb # v1.11.0
     with:
       profile: marketplace
       contract-path: downstream-contract.json
-      standards-ref: 860df1a9b9ba68c25dafbc6c175548c9d343b7dc
+      standards-ref: 6de1f8d6f703135a1d7ea76050ef1b9e537b51bb
